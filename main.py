@@ -20,7 +20,7 @@ import webbrowser
 import shutil
 
 # 忽略不检测的目录列表
-ignore_dirs = ('web_inf', 'meta-inf', 'lib', 'node_modules', 'src', 'markus', 'cbdb-markus')
+ignore_dirs = ('web_inf', 'meta-inf', 'lib', 'node_modules', 'src')
 # 需要检测的编译目录列表
 compile_dirs = ('target', 'build', 'dist', 'output', 'outputs')
 # 扫描结果存储列表

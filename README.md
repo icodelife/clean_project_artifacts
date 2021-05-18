@@ -17,7 +17,7 @@ shutil
 
 1. 运行 `main.py` 主文件
 
-2. 输入需要扫描的目录，如：`~/Projects`
+2. 输入需要扫描的目录，如：`/Users/codelife/Projects`
 
 3. 选择处理方式
 
